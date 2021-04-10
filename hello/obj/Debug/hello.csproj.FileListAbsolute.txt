@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\bin\Debug\hello.exe.config
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\bin\Debug\hello.exe
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\bin\Debug\hello.pdb
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\obj\Debug\hello.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\obj\Debug\hello.exe
+C:\Users\Lenovo\Desktop\GitFlowInProject\GitFlowInProject\hello\obj\Debug\hello.pdb
