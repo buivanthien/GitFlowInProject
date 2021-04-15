@@ -8,6 +8,6 @@ namespace hello
 {
 	class content
 	{
-		bui van thien
+		bui van thien 2
 	}
 }
